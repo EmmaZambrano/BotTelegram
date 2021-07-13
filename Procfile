@@ -1,1 +1,1 @@
-bot: python13 BotTelegram.ipynb
+bot: python Bot.py
